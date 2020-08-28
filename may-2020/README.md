@@ -1,5 +1,3 @@
-Live site: https://eric-pinero.github.io/Jan-2020-Graduation/
-
 ## To add cohort:
 - Clone down repo
 - Go to a/A name game to get student data file (remove dismissed students)
